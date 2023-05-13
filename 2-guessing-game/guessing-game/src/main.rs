@@ -40,6 +40,7 @@ fn get_range() -> (u32, u32) {
             "In this guessing game, you set the range. What is the lower bound?",
         );
         let upper_bound = number_input_with_prompt("What is the upper bound?");
+        // ensure that the lower bound is < upper bound
         if lower_bound < upper_bound {
             return (lower_bound, upper_bound);
         } else {
