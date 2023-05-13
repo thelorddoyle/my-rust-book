@@ -14,7 +14,7 @@ At each stage I am following along with the code exercises and keeping additiona
 
 1. The user can set the range
 2. Limit the game to only 3 attempts
-3. Tell the user they can type quit to end the game
+3. Update the User Experience, so the user understands the rules
 4. If they write 'quit' as guess, game quits
 5. Include input validation to ensure lower bound is lower than the upper bound
 6. Ask the user if they want to play again after losing or winning
