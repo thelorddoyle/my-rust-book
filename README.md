@@ -1,4 +1,4 @@
-# my-rust-book
+# My Rust Book
 
 ## Description
 
