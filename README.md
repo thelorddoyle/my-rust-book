@@ -23,7 +23,7 @@ _Note: Some chapters are elementary or do not include exercises so are not relev
 
 ### 3.0 Common Programming Concepts
 
-Standard tasks were:
+**Standard tasks were:**
 
 1. Convert temperatures between Fahrenheit and Celsius.
 2. Generate the nth Fibonacci number.
